@@ -1,2 +1,2 @@
 # dockerized-FS
-test app for dockized full stack app 
+test app for dockerized full stack app 
